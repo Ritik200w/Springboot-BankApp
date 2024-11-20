@@ -1,4 +1,4 @@
-@Library('Jenkins-shared-libraries')_
+@Library('shared')_
 
 pipeline{
     agent {label 'dev-server'}
