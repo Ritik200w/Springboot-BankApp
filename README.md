@@ -1,8 +1,6 @@
 In this Project, I will walk you through the process of setting up a **CI/CD pipeline** for a **Spring Boot banking application**. This pipeline will automate the build, deployment, and integration processes using **Jenkins**, **Docker**, and **GitHub**. You will learn how to leverage a **multi-node Jenkins architecture**, **shared libraries**, and **webhooks** for automatic deployments.
 
-**Repository for this Project**: Used this Repo + Shared library repo : https://github.com/Amitabh-DevOps/Jenkins-shared-libraries
-
-**Check Blog** : https://amitabhdevops.hashnode.dev/spring-boot-bank-jenkins 
+**Repository for this Project**: Used this Repo + Shared library repo : https://github.com/Ritik200w/Springboot-BankApp.git
 
 > Use the `dev` branch for the code related to this project.
 
