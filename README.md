@@ -299,7 +299,7 @@ This script pulls the code from GitHub, builds and pushes a Docker image to Dock
     
 * This script allows to used shared library repo which is stored on my github profile
     
-* **<mark>used shared library repo</mark>** <mark> : </mark> [<mark>https://github.com/Amitabh-DevOps/Jenkins-shared-libraries</mark>](https://github.com/Amitabh-DevOps/Jenkins-shared-libraries)
+* **<mark>used shared library repo</mark>** <mark> : </mark
     
 * **Commit the Changes**:
     
